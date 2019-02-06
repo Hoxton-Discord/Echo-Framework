@@ -1,0 +1,5 @@
+{
+    "Hook.lua" = "True"
+    "Hook2.lua" = "False"
+    "Index.lua" = "True"
+}

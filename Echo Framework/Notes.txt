@@ -1,0 +1,11 @@
+Do NOT modify the core Echo Framework! If you want to modify it get the plugin Echo Modification Plugin on Hoxtons Github.
+
+Made by Hoxton#3006
+
+Developed by Hoxton#3006, Duck#0934
+
+Impowered by Duck#0934
+
+All content in this package and other sources belong to there respected developers.
+
+
